@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a74a290-ca34-4103-98ed-0a6576b5d22b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day17-第二章回顾/day17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day18/day18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15/day15.py" beforeDir="false" afterPath="$PROJECT_DIR$/day15/day15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +30,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="121" />
-    <option name="y" value="177" />
-    <option name="width" value="872" />
-    <option name="height" value="666" />
-  </component>
   <component name="ProjectId" id="1reXlijn4Z9BCICMkd94beTmKRr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,7 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day17-第二章回顾/day17.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day18/day18.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -73,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day17" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="day18" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="csdn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,12 +74,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\sunsx.sun\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day17-第二章回顾" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day17-第二章回顾/day17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/day18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,38 +114,82 @@
       <workItem from="1616738939905" duration="626000" />
       <workItem from="1616978794227" duration="9509000" />
       <workItem from="1617673253344" duration="1336000" />
-      <workItem from="1619337684988" duration="2571000" />
+      <workItem from="1619337684988" duration="3360000" />
+      <workItem from="1619344203958" duration="1017000" />
+      <workItem from="1619402160709" duration="590000" />
+      <workItem from="1620268697572" duration="4662000" />
+      <workItem from="1620442876850" duration="4042000" />
     </task>
+    <task id="LOCAL-00001" summary="add day17">
+      <created>1619340870934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619340870935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add day17" />
+    <option name="LAST_COMMIT_MESSAGE" value="add day17" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619339121664">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619344878429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619339121664" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1619339120644">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1619344878429" />
+    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1619340868640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619339120643" />
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom" timestamp="1619339244785">
+    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1619340868640" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1619344872464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619339244785" />
-    <state width="1877" height="239" key="GridCell.Tab.0.center" timestamp="1619339244785">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1619344872464" />
+    <state width="1551" height="183" key="GridCell.Tab.0.bottom" timestamp="1620463193017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619339244785" />
-    <state width="1877" height="239" key="GridCell.Tab.0.left" timestamp="1619339244785">
+    <state width="1551" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620463193017" />
+    <state width="1551" height="183" key="GridCell.Tab.0.center" timestamp="1620463193017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619339244785" />
-    <state width="1877" height="239" key="GridCell.Tab.0.right" timestamp="1619339244785">
+    <state width="1551" height="183" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620463193017" />
+    <state width="1551" height="183" key="GridCell.Tab.0.left" timestamp="1620463193017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619339244785" />
+    <state width="1551" height="183" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620463193017" />
+    <state width="1551" height="183" key="GridCell.Tab.0.right" timestamp="1620463193017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1551" height="183" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620463193017" />
+    <state width="1551" height="299" key="GridCell.Tab.1.bottom" timestamp="1620459885876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1551" height="299" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620459885876" />
+    <state width="1551" height="299" key="GridCell.Tab.1.center" timestamp="1620459885876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1551" height="299" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620459885876" />
+    <state width="1551" height="299" key="GridCell.Tab.1.left" timestamp="1620459885876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1551" height="299" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620459885876" />
+    <state width="1551" height="299" key="GridCell.Tab.1.right" timestamp="1620459885876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1551" height="299" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620459885876" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1619340876350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619340876350" />
+    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619340797388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619340797388" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -167,10 +204,17 @@
           <line>32</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day18/day18.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/csdn$day16.coverage" NAME="day17 Coverage Results" MODIFIED="1619339244773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17-第二章回顾" />
+    <SUITE FILE_PATH="coverage/csdn$day18.coverage" NAME="day18 Coverage Results" MODIFIED="1620463193003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/csdn$day17.coverage" NAME="day18 Coverage Results" MODIFIED="1619345214709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
   </component>
 </project>
