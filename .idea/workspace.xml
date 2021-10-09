@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a74a290-ca34-4103-98ed-0a6576b5d22b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day18/day18.py" beforeDir="false" afterPath="$PROJECT_DIR$/day18/day18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day19/day19.py" beforeDir="false" afterPath="$PROJECT_DIR$/day19/day19.py" afterDir="false" />
-    </list>
+    <list default="true" id="1a74a290-ca34-4103-98ed-0a6576b5d22b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../PythonProject/demokit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -129,6 +125,7 @@
       <workItem from="1626660248348" duration="584000" />
       <workItem from="1626682422806" duration="1256000" />
       <workItem from="1627024177624" duration="599000" />
+      <workItem from="1633765350311" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="add day17">
       <created>1619340870934</created>
@@ -158,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625469729383</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add day17">
+      <created>1633765562807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633765562807</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,14 +173,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="add day17" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="927" y="387" key="#Notifications" timestamp="1633765612519">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="927" y="387" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1633765612519" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625469620619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625469620619" />
-    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1625469726578">
+    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1633765559267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1625469726578" />
+    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1633765559267" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1626687037218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -197,30 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1551" height="221" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625824159262" />
-    <state width="1551" height="299" key="GridCell.Tab.1.bottom" timestamp="1620466220555">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1633765568824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1551" height="299" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620466220555" />
-    <state width="1551" height="299" key="GridCell.Tab.1.center" timestamp="1620466220554">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1551" height="299" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620466220554" />
-    <state width="1551" height="299" key="GridCell.Tab.1.left" timestamp="1620466220554">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1551" height="299" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620466220554" />
-    <state width="1551" height="299" key="GridCell.Tab.1.right" timestamp="1620466220554">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1551" height="299" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620466220554" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1625469734536">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1625469734536" />
-    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619340797388">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1619340797388" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1633765568824" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
