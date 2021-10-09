@@ -82,3 +82,6 @@ print(str15)
 str16 = 'the number is {num:b}'.format(num=42)
 print(str16)
 
+
+
+
